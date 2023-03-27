@@ -20,4 +20,4 @@ print()
 
 
 | heading | head | header | 
-| --- | | --- | | --- |
+| --- | --- | --- |
