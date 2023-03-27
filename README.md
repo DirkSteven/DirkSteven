@@ -19,6 +19,5 @@ print()
 ```
 
 
-| header | head | heading |
+| heading | head | header | 
 | --- | | --- | | --- |
-| content | content | content| 
