@@ -1,5 +1,5 @@
 # ** UNDER MAINTENANCE ** 
-this ** text ** 
+I just love **bold text**.	
 
 ![Dinosaur](gif.gif)
 <!--
