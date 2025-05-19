@@ -35,6 +35,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DirkSteven&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirkSteven&layout=compact&theme=transparent" alt="Top Languages" />
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DirkSteven&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirkSteven&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="320"/>
+  </div>
 </p>
+
