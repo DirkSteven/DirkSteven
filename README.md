@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DirkSteven&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="420"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirkSteven&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="320"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DirkSteven&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DirkSteven&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="320"/>
   </div>
 </p>
